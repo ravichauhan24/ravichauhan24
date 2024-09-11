@@ -28,13 +28,13 @@ Here are some ideas to get you started:
 <h1 align="center"> <span style="colour:red font-family:Papyrus; font-size:4em;"> Hey there, I'm Ravi Chauhan </span> <img src="https://github.com/ravichauhan24/ravichauhan24/blob/main/files/Developer.gif" width="65px"> </h1>
 
 <!--[![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello,Programmer!-Welcome<3-orange.svg?style=flat&logo=github)](https://github.com/rushabh1605) [![Profile](https://komarev.com/ghpvc/?username=rushabh1605&color=blue)](https://github.com/rushabh1605) [![followers](https://img.shields.io/github/followers/rushabh1605?style=social)](https://github.com/rushabh1605?tab=followers)[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?:heart:)](https://github.com/rushabh1605) [![Repos Badge](https://badges.pufler.dev/repos/rushabh1605)](https://github.com/rushabh1605?tab=repositories)[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/ravi-chauhan-595996223/) [![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)](https://github.com/ravichauhan24)-->
-<br>
-[![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello,Programmer!-Welcome<3-orange.svg?style=flat&logo=github)](https://github.com/rushabh1605) (https://github.com/rushabh1605) [![followers](https://img.shields.io/github/followers/rushabh1605?style=social)](https://github.com/rushabh1605?tab=followers)[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?:heart:)](https://github.com/rushabh1605) [![Repos Badge](https://badges.pufler.dev/repos/rushabh1605)](https://github.com/rushabh1605?tab=repositories)[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/ravi-chauhan-595996223/) [![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)](https://github.com/ravichauhan24)
+
+[![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)](https://github.com/ravichauhan24) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/ravi-chauhan-595996223/)
 <br>
 
 - 🔭 I’m also worked on AngularJS Responsive Large Project
-- 🌱 I’m currently learning **Data Science🤩** Nad Also project work on **Data Analysis**
-- - 👯 I’m looking to collaborate on  frontend developing also module work as a **freelancer**
+- 🌱 I’m currently learning **Data Science🤩** & Also project work on **Data Analysis**
+- 👯 I’m looking to collaborate on  frontend developing also module work as a **freelancer**
 
 <!-- - <details> <summary> 💬 Ask me about Anything </summary> <a href="mailto:ravi87104@gmail.com" target="blank"><img align="center" src="https://github.com/ravichauhan24/ravichauhan24/blob/main/files/WA.png" width="35px" /></a>
 </details>  -->
@@ -76,14 +76,14 @@ Here are some ideas to get you started:
 <!--<img height="27" src="https://img.shields.io/badge/Rushabh Thakkar's GitHub Stats - 😊-red.svg?&style=for-the-badge&logo=RushabhThakkar&logoColor=blue" />
 <div align="center"> -->
 <p>&nbsp;
-<h4 align="center">Stats</h4>
+<!--<h4 align="center">Stats</h4>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=rushabh1605&show_icons=true&theme=radical&border_color=141321&text_color=c8c2bc&custom_title=Bonjour Programmers! 👏&layout=compact" alt="Ravi Chauhan"/></p>
 <h4 align="center">Streak</h4>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rushabh1605&theme=dark&hide_border=true&fire=b6336c&sideNums=b6336c&currStreakNum=b6336c&sideLabels=743cc7&ring=743cc7&currStreakLabel=743cc7&background=141321&dates=c8c2bc"
          alt="rushabh1605" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushabh1605&title_color=FF69B4&custom_title=Most Used Languages :D &layout=compact&theme=highcontrast&langs_count=10" alt="rushabh1605" />
    <br><br>
-<details align="center">
+<details align="center">-->
   <summary>GitHub Trophies 🏆</summary>
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
@@ -94,9 +94,11 @@ Here are some ideas to get you started:
 <h4 align="center">Show ❤️ By Starring My <a href='https://github.com/rushabh1605?tab=repositories'><img align='center'  height="22" src="https://img.shields.io/badge/Repos!😊-purple.svg?&style=for-the-badge&logo=RushabhThakkar&logoColor=blue" /></a></h4>
 
 <br><br>
-![Rushabh's github activity graph](https://activity-graph.herokuapp.com/graph?username=rushabh1605&theme=dracula&layout=compact&title_color=FF69B4)
+<!--![Ravi's github activity graph]('https://activity-graph.herokuapp.com/graph?username=rushabh1605&theme=dracula&layout=compact&title_color=FF69B4')-->
 
-<h4 align="center">Hey,Wait! 👋 don't foget to check out my social media handles 😎<img align="center" src="https://github.com/ravichauhan24/ravichauhan24/blob/main/files/Handshake.gif" height="30px"></h4> <br>
+<h4 align="center">Hey,Wait! 👋 don't foget to check out my social media handles 😎
+   <img align="center" src="https://github.com/ravichauhan24/ravichauhan24/blob/main/files/Handshake.gif" height="30px">
+</h4> <br>
 
 <p align="center">
    <br>
