@@ -27,7 +27,9 @@ Here are some ideas to get you started:
 </div>
 <h1 align="center"> <span style="colour:red font-family:Papyrus; font-size:4em;"> Hey there, I'm Ravi Chauhan </span> <img src="https://github.com/ravichauhan24/ravichauhan24/blob/main/files/Developer.gif" width="65px"> </h1>
 
-[![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello,Programmer!-Welcome<3-orange.svg?style=flat&logo=github)](https://github.com/rushabh1605) [![Profile](https://komarev.com/ghpvc/?username=rushabh1605&color=blue)](https://github.com/rushabh1605) [![followers](https://img.shields.io/github/followers/rushabh1605?style=social)](https://github.com/rushabh1605?tab=followers)[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?:heart:)](https://github.com/rushabh1605) [![Repos Badge](https://badges.pufler.dev/repos/rushabh1605)](https://github.com/rushabh1605?tab=repositories)[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/ravi-chauhan-595996223/) [![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)](https://github.com/rushabh1605/)
+<!--[![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello,Programmer!-Welcome<3-orange.svg?style=flat&logo=github)](https://github.com/rushabh1605) [![Profile](https://komarev.com/ghpvc/?username=rushabh1605&color=blue)](https://github.com/rushabh1605) [![followers](https://img.shields.io/github/followers/rushabh1605?style=social)](https://github.com/rushabh1605?tab=followers)[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?:heart:)](https://github.com/rushabh1605) [![Repos Badge](https://badges.pufler.dev/repos/rushabh1605)](https://github.com/rushabh1605?tab=repositories)[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/ravi-chauhan-595996223/) [![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)](https://github.com/ravichauhan24)-->
+<br>
+[![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello,Programmer!-Welcome<3-orange.svg?style=flat&logo=github)](https://github.com/rushabh1605) (https://github.com/rushabh1605) [![followers](https://img.shields.io/github/followers/rushabh1605?style=social)](https://github.com/rushabh1605?tab=followers)[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?:heart:)](https://github.com/rushabh1605) [![Repos Badge](https://badges.pufler.dev/repos/rushabh1605)](https://github.com/rushabh1605?tab=repositories)[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/ravi-chauhan-595996223/) [![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)](https://github.com/ravichauhan24)
 <br>
 
 - 🔭 I’m also worked on AngularJS Responsive Large Project
@@ -49,8 +51,9 @@ Here are some ideas to get you started:
 
 <div align="center">
    
-   ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
-   ![C](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
+  <!-- ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)-->
+  <!--  ![C](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)-->
+  
    ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
    ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
    ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
