@@ -25,19 +25,19 @@ Here are some ideas to get you started:
 <div align="center" width="50">
    <img src="https://github.com/ravichauhan24/ravichauhan24/blob/main/files/tenor.gif" alt="Welcome!"/>
 </div>
-<h1 align="center"> <span style="colour:red font-family:Papyrus; font-size:4em;"> Hey there, I'm Ravi Chauhan </span> <img src="https://github.com/rushabh1605/rushabh1605/blob/main/files/Developer.gif" width="65px"> </h1>
+<h1 align="center"> <span style="colour:red font-family:Papyrus; font-size:4em;"> Hey there, I'm Ravi Chauhan </span> <img src="https://github.com/ravichauhan24/ravichauhan24/blob/main/files/Developer.gif" width="65px"> </h1>
 
-[![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello,Programmer!-Welcome<3-orange.svg?style=flat&logo=github)](https://github.com/rushabh1605) [![Profile](https://komarev.com/ghpvc/?username=rushabh1605&color=blue)](https://github.com/rushabh1605) [![followers](https://img.shields.io/github/followers/rushabh1605?style=social)](https://github.com/rushabh1605?tab=followers)[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?:heart:)](https://github.com/rushabh1605) [![Repos Badge](https://badges.pufler.dev/repos/rushabh1605)](https://github.com/rushabh1605?tab=repositories)[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/rushabhthakkar/) [![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)](https://github.com/rushabh1605/)
+[![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello,Programmer!-Welcome<3-orange.svg?style=flat&logo=github)](https://github.com/rushabh1605) [![Profile](https://komarev.com/ghpvc/?username=rushabh1605&color=blue)](https://github.com/rushabh1605) [![followers](https://img.shields.io/github/followers/rushabh1605?style=social)](https://github.com/rushabh1605?tab=followers)[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?:heart:)](https://github.com/rushabh1605) [![Repos Badge](https://badges.pufler.dev/repos/rushabh1605)](https://github.com/rushabh1605?tab=repositories)[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/ravi-chauhan-595996223/) [![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)](https://github.com/rushabh1605/)
 <br>
 
-- 🔭 I’m currently working on Machine Learning projects and Web Development
+- 🔭 I’m also worked on AngularJS Responsive Large Project
+- 🌱 I’m currently learning **Data Science🤩** Nad Also project work on **Data Analysis**
+- - 👯 I’m looking to collaborate on  frontend developing also module work as a **freelancer**
 
-- 🌱 I’m currently learning **Data Science🤩**
+<!-- - <details> <summary> 💬 Ask me about Anything </summary> <a href="mailto:ravi87104@gmail.com" target="blank"><img align="center" src="https://github.com/ravichauhan24/ravichauhan24/blob/main/files/WA.png" width="35px" /></a>
+</details>  -->
 
-- <details> <summary> 💬 Ask me about Technical Staff </summary> <a href="https://web.whatsapp.com/" target="blank"><img align="center" src="https://github.com/rushabh1605/rushabh1605/blob/main/files/WA.png" width="35px" /></a>
-</details>  
-
-- <details> <summary> 📫 How to reach me :</summary><a href="mailto:rushabht1605@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="22px"/> </a>
+- <details> <summary> 📫 How to reach me & 💬 Ask me about Anything :</summary><a href="mailto:ravi87104@gmail.com "> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="22px"/> </a>
 </details> 
 
 - <details> <summary>:zap: Fun fact</summary> Scratch here ▒▒▒▒▒▒▒▒▒▒ to unveil my fun fact lol
@@ -67,15 +67,14 @@ Here are some ideas to get you started:
    ![Powershell](http://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff)
    ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
    
-   <img  alt="GIF" width="100px" src="https://github.com/rushabh1605/rushabh1605/blob/main/files/giphy%20(1).gif" />
+   <img  alt="GIF" width="100px" src="https://github.com/ravichauhan24/ravichauhan24/blob/main/files/giphy%20(1).gif" />
 </div>
 
-<img height="27" src="https://img.shields.io/badge/Rushabh Thakkar's GitHub Stats - 😊-red.svg?&style=for-the-badge&logo=RushabhThakkar&logoColor=blue" />
-<div align="center">
-
+<!--<img height="27" src="https://img.shields.io/badge/Rushabh Thakkar's GitHub Stats - 😊-red.svg?&style=for-the-badge&logo=RushabhThakkar&logoColor=blue" />
+<div align="center"> -->
 <p>&nbsp;
 <h4 align="center">Stats</h4>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=rushabh1605&show_icons=true&theme=radical&border_color=141321&text_color=c8c2bc&custom_title=Bonjour Programmers! 👏&layout=compact" alt="Rushabh Thakkar"/></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=rushabh1605&show_icons=true&theme=radical&border_color=141321&text_color=c8c2bc&custom_title=Bonjour Programmers! 👏&layout=compact" alt="Ravi Chauhan"/></p>
 <h4 align="center">Streak</h4>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rushabh1605&theme=dark&hide_border=true&fire=b6336c&sideNums=b6336c&currStreakNum=b6336c&sideLabels=743cc7&ring=743cc7&currStreakLabel=743cc7&background=141321&dates=c8c2bc"
          alt="rushabh1605" />
@@ -94,34 +93,35 @@ Here are some ideas to get you started:
 <br><br>
 ![Rushabh's github activity graph](https://activity-graph.herokuapp.com/graph?username=rushabh1605&theme=dracula&layout=compact&title_color=FF69B4)
 
-<h4 align="center">Hey,Wait! 👋 don't foget to check out my social media handles 😎<img align="center" src="https://github.com/rushabh1605/rushabh1605/blob/main/files/Handshake.gif" height="30px"></h4> <br>
+<h4 align="center">Hey,Wait! 👋 don't foget to check out my social media handles 😎<img align="center" src="https://github.com/ravichauhan24/ravichauhan24/blob/main/files/Handshake.gif" height="30px"></h4> <br>
 
 <p align="center">
    <br>
-   <a href="https://www.linkedin.com/in/rushabhthakkar/">
-  <img align="left" src="https://github.com/rushabh1605/rushabh1605/blob/main/files/Linkedin.svg" alt="linkedin" width="24px" />
+   <a href="https://www.linkedin.com/in/ravi-chauhan-595996223/">
+      <a href="https://www.linkedin.com/in/ravi-chauhan-595996223/">
+  <img align="left" src="https://github.com/ravichauhan24/ravichauhan24/blob/main/files/Linkedin.svg" alt="linkedin" width="24px" />
 </a>  
  
-<a href="https://instagram.com/rushh_ab" target="blank">
-  <img align="left" src="https://github.com/rushabh1605/rushabh1605/blob/main/files/Instagram.svg" alt="instagram" width="24px" />
+<!--<a href="https://instagram.com/rushh_ab" target="blank">
+  <img align="left" src="https://github.com/ravichauhan24/ravichauhan24/blob/main/files/Instagram.svg" alt="instagram" width="24px" />
 </a>
 
 <a href="https://www.youtube.com/channel/UCNNtlinMdc_3Ur__8UqjDTQ" target="blank">
-  <img align="left" src="https://github.com/rushabh1605/rushabh1605/blob/main/files/youtube.png" alt="youtube"  width="25px" height='23.5' />
+  <img align="left" src="https://github.com/ravichauhan24/ravichauhan24/blob/main/files/youtube.png" alt="youtube"  width="25px" height='23.5' />
 </a>
 
 <a href="https://twitter.com/rushabht1605" target="blank">
-  <img align="left" src="https://github.com/rushabh1605/rushabh1605/blob/main/files/Twitter.svg" width="26px" />
-</a> 
-<a href="mailto:rushabht1605@gmail.com?subject=Hola%20Rushabh!"><img
+  <img align="left" src="https://github.com/ravichauhan24/ravichauhan24/blob/main/files/Twitter.svg" width="26px" />
+</a> -->
+<a href="mailto:ravi87104@gmail.com ?subject=Hola%20Rushabh!"><img
          src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"
          alt="Gmail" /></a>&nbsp;
-<a href="https://devpost.com/rushabh1605"><img
+<!-- <a href="https://devpost.com/rushabh1605"><img
          src="https://img.shields.io/badge/devpost-999b84.svg?&style=for-the-badge&logo=devpost&logoColor=white"
          alt="LinkedIn" /></a>&nbsp;
 <a href="https://devfolio.co/@RushabhThakkar"><img
          src="https://img.shields.io/badge/devfolio-87a7b3.svg?&style=for-the-badge&logo=devfolio&logoColor=white"
-         alt="LinkedIn" /></a>&nbsp;
+         alt="LinkedIn" /></a>&nbsp; -->
 </p>
 <br> <br> <br>
 
